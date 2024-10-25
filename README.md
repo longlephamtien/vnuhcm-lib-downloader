@@ -14,7 +14,7 @@ git clone https://github.com/longlephamtien/vnuhcm-lib-downloader.git
 <!-- Describe how to install the project -->
 To install the project, you need to have Python installed on your machine. You can install Python from the official website. Once you have Python installed and source code, you can run the following command to install the required packages:
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 ## Setup
 
