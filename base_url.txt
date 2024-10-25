@@ -1,0 +1,8 @@
+# Base URL for downloading images
+# Replace {page} in the URL with the page number to download each image sequentially
+# Example: "https://example.com/image?page={page}"
+# Define the starting and ending page numbers below. Page number starts from 1.
+
+https://example.com/image?page={page}
+START_PAGE: 1
+END_PAGE: 100
